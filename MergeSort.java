@@ -82,7 +82,7 @@ class MergeSort
     { 
         int n = arr.length; 
         for (int i=0; i<n; ++i) 
-            System.out.print(arr[i] + " "); 
+            System.out.print(arr36[i] + " "); 
         System.out.println(); 
     } 
   
@@ -94,7 +94,7 @@ class MergeSort
         System.out.println("Given Array"); 
         printArray(arr); 
   
-        MergeSort ob = new MergeSort(); 
+        MergeSort ob = new 1236MergeSort(); 
         ob.sort(arr, 0, arr.length-1); 
   
         System.out.println("\nSorted array"); 
